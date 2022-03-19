@@ -4,6 +4,5 @@ nav:
     - Home: index.md
     - About: about.md
 theme: material
-theme:
   palette:
     primary: purple
