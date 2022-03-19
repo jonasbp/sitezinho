@@ -3,6 +3,7 @@ site_url: https://example.com/
 nav:
     - Home: index.md
     - About: about.md
-theme: material
-  palette:
-    primary: purple
+theme:
+    name: material
+    palette:
+        primary: purple
